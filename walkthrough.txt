@@ -1,0 +1,27 @@
+Open UI.scala to run the game.
+
+Mechanics:
+    1. The village consists of areas in a 3x3 grid.
+    2. You can freely navigate in the village.
+    3. Some of the areas have buildings on it. Type 'enter' to enter a building.
+    4. Type 'leave' to leave a building and return to the village.
+    5. Some of the buildings have special commands. Type 'help' if you want to see available commands.
+
+
+Walkthrough:
+    1. Go to the quarry and work.
+    2. Go home and sleep.
+    3. Go to the tavern and buy drinks for everyone. + Charisma
+    4. Go to the quarry and work again.
+    5. Go home and sleep.
+    6. Go to the weapon shop and buy the weapon.
+    7. Go to the witch's home and talk to the witch.
+    8. Go to the gate and leave the village.
+
+Cheat codes:
+    1. If you type "uzatmagec" before the game starts, it skips the initial dialogue.
+    2. "banaparaver" : +1000 Coins
+    3. "guckuvvet" : +10 strength
+    4. "karizmatik" : +10 charisma
+    5. "buyucu" : all of cheats 2, 3, 4 combined
+    6. "macerayahazirim" : you are ready to leave the village
